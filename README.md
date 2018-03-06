@@ -1,7 +1,7 @@
 DRAFT Specification for Point Cloud Scene Layer: Service and Package Standard
 ===============================================
 
-![App](./pcsl.jpeg "A Point Cloud layer rendered with RGB attributes.")[http://www.arcgis.com](http://www.arcgis.com)
+![App](./pcsl.jpeg "A Point Cloud layer rendered with RGB attributes.") A Point Cloud layer rendered with RGB attributes.
 
 This repository hosts the DRAFT specification for Point Cloud Scene Layer (PCL).
 
