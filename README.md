@@ -1,16 +1,18 @@
 DRAFT Specification for Point Cloud Scene Layer: Service and Package Standard
 ===============================================
 
-![App](./pcsl.jpeg "A Point Cloud layer rendered with RGB attributes.") A Point Cloud layer rendered with RGB attributes.
+![App](./pcsl.jpeg "A Point Scene Cloud Layer rendered with RGB attributes.")
+
+ A Point Cloud Scene Layer rendered with RGB attributes.
 
 This repository hosts the DRAFT specification for Point Cloud Scene Layer (PCL).
 
 - [point clouds](./profiles/pointclouds/docs/documentation.md) (e.g. large point data from LiDAR)
 
 
-The above specification is planned to be included as part of  [Indexed 3d Scene Layer (I3S)](./format/Indexed%203d%20Scene%20Layer%20Format%20Specification.md) and [scene layer package (\*.slpk)](./format/Indexed%203d%20Scene%20Layer%20Format%20Specification.md) open format, as well as the specification for accessing I3S resources as [scene service REST](./service/SceneService.md) endpoints.
+The Point Cloud Scene Layer (PCL) specification is planned to be included as part of  [Indexed 3d Scene Layer (I3S)](./format/Indexed%203d%20Scene%20Layer%20Format%20Specification.md) and [scene layer package (\*.slpk)](./format/Indexed%203d%20Scene%20Layer%20Format%20Specification.md) open format, as well as the specification for accessing I3S resources as [scene service REST](./service/SceneService.md) endpoints.
 
-The Point Cloud Scene Layer specification currently utilizes the [LEPCC](https://github.com/esri/lepcc) (Limited Error Point Cloud Compression) algorithm for data compression which is released under an Apache License 2.0 license.
+The PCL specification currently utilizes the [LEPCC](https://github.com/esri/lepcc) (Limited Error Point Cloud Compression) algorithm for data compression which is released under an Apache License 2.0 license.
 
 ## Contributing
 
