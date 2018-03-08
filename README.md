@@ -12,7 +12,7 @@ This repository hosts the DRAFT specification for Point Cloud Scene Layer (PCL).
 
 The Point Cloud Scene Layer (PCL) specification is planned to be included as part of  [Indexed 3d Scene Layer (I3S)](https://github.com/Esri/i3s-spec/blob/master/format/Indexed%203d%20Scene%20Layer%20Format%20Specification.md) and [scene layer package (\*.slpk)](https://github.com/Esri/i3s-spec/blob/master/format/Indexed%203d%20Scene%20Layer%20Format%20Specification.md#_8_1) open format, as well as the specification for accessing I3S resources as [scene service REST](https://github.com/Esri/i3s-spec/blob/master/service/SceneService.md) endpoints.
 
-The PCL specification currently utilizes the [LEPCC](https://github.com/esri/lepcc) (Limited Error Point Cloud Compression) algorithm for data compression which is released under the Apache License Version 2.0. This compression is offered as example of a compression that is supported by the Point Cloud Specificaton. Future work will add other types of compressions. 
+The PCL specification currently utilizes the [LEPCC](https://github.com/esri/lepcc) (Limited Error Point Cloud Compression) algorithm for data compression which is released under the Apache License Version 2.0. This compression is offered as example of a compression that is supported by the Point Cloud Specification. Future work will add other types of compressions. 
 
 ## Contributing
 
