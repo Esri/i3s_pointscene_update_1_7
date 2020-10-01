@@ -1,4 +1,4 @@
-Scene Layers: Service and Package Standard
+Scene Layers: Service and Package Standard (THIS REPO IS A DRAFT FOR POINT SCENE LAYER 1.7 AND CONTAINS DEAD LINKS.  POINT README AND VERSION HISTORY ARE THE ONLY LINKS HERE THAT CURRENTLY WORK.)
 ===============================================
 
 ![Multiple scene layers in web scene viewer](./sceneLayers.jpg )

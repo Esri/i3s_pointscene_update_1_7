@@ -1,4 +1,4 @@
-# Point Scene Layer (1.7)
+# Point Scene Layer (1.7) (THIS REPO IS A DRAFT FOR POINT SCENE LAYER 1.7 AND CONTAINS DEAD LINKS.  POINT README AND VERSION HISTORY ARE THE ONLY LINKS HERE THAT CURRENTLY WORK.)
 
 Point scene layers contain point features and their attributes. Point scene layers are often used to visualize large amounts of 3D data like trees or buildings.  Most phenomena that can be visualized by 3D symbols can be displayed with a point scene layer.
 
