@@ -1,4 +1,4 @@
-Version History
+Version History (THIS REPO IS A DRAFT FOR POINT SCENE LAYER 1.7 AND CONTAINS DEAD LINKS.  POINT README ARE THE ONLY LINKS HERE THAT CURRENTLY WORK.)
 ===============================================
 Last updated 3/6/2020
 ### Version 1.7
